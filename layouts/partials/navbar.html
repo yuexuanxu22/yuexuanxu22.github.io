@@ -85,6 +85,11 @@
             {{ end }}
           {{ end }}
 
+
+          {{ if eq .Params.target "_blank" }}
+            {{ $.Scratch.Set "target" " target=\"_blank\" " }}
+          {{ end }}
+
           {{/* Get active page. */}}
 
           {{ $is_link_in_current_path := false }}

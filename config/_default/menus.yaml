@@ -19,6 +19,8 @@ main:
   - name: CV
     url: 'uploads/cv.pdf'
     weight: 40
+    params:
+      target: '_blank'
 
   - name: Contact
     url: 'contact'

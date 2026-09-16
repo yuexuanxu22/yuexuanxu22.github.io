@@ -1,0 +1,83 @@
+{{- define "main" -}}
+
+
+{{/* Query */}}
+{{- $query := site.Data.publications -}}
+{{- $preprints := sort $query.preprints "year" "desc" -}}
+{{- $peer_reviewed_articles := sort $query.peer_reviewed_articles "year" "desc" -}}
+{{- $talks := sort $query.talks "year" "desc" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper pt-3 page-publication-list">
+  <div class="row">
+    <div class="col-12">
+
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+
+      <div class="publication-type ">
+        Preprints
+      </div>
+      <div id="container-publications">
+        {{ range $index, $item := $preprints }}
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-pub year-{{ $item.year | time.Format "2006" }}">
+          {{ partial "views/pub_item.html" (dict
+              "page" .
+              "index" $index
+              "item" $item
+          )}}
+        </div>
+
+        {{ end }}
+      </div>
+
+
+
+      <div class="publication-type ">
+        Peer-reviewed Articles
+      </div>
+      <div id="container-publications">
+        {{ range $index, $item := $peer_reviewed_articles }}
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-pub year-{{ $item.year | time.Format "2006" }}">
+          {{ partial "views/pub_item.html" (dict
+              "page" .
+              "index" $index
+              "item" $item
+          )}}
+        </div>
+
+        {{ end }}
+      </div>
+
+
+      <div class="publication-type ">
+        Talks
+      </div>
+      <div id="container-publications">
+        {{ range $index, $item := $talks }}
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-pub year-{{ $item.year | time.Format "2006" }}">
+          {{ partial "views/pub_talk.html" (dict
+              "page" .
+              "index" $index
+              "item" $item
+          )}}
+        </div>
+
+        {{ end }}
+      </div>
+
+
+
+
+
+    </div>
+  </div>
+</div>
+
+{{- end -}}

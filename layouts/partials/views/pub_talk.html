@@ -1,0 +1,19 @@
+{{ $item := .item }}
+{{ $item_index := add .index 1 }}
+
+<div class="paper-item row view-citation" style="">
+
+
+  <div class="col-12 col-md-3">
+    <div class="j-year">{{ $item.year | markdownify | safeHTML}}</div>
+  </div>
+  <div class="col-12 col-md-9">
+    <div class="pub-title">  {{ $item.title | markdownify | safeHTML}}</div>
+    <div class="pub-author">{{ $item.talk_info | markdownify | safeHTML}}</div>
+
+
+
+  </div>
+
+
+</div>

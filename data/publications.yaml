@@ -1,0 +1,128 @@
+preprints:
+  - title: "Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal Cognitive Aging among Asymptomatic Individuals"
+    authors: "**Xu Y**, Sun Z, Jonaitis E, Deming Y, Lu Q, Johnson SC, Engelman CD"
+    journal: "medRxiv [Preprint]"
+    journal_info: "2024 May 27:2024.05.26.24307953. doi: 10.1101/2024.05.26.24307953. PMID: 38853902; PMCID: PMC11160812."
+    year: 2024
+    links:
+      - name: Doi
+        url: https://doi.org/10.1101/2024.05.26.24307953
+
+peer_reviewed_articles:
+  - title: "Effect of Pathway-Specific Polygenic Risk Scores for Alzheimer's Disease (AD) on Rate of Change in Cognitive Function and AD-Related Biomarkers Among Asymptomatic Individuals"
+    authors: "**Xu Y**, Vasiljevic E, Deming YK, Jonaitis EM, Koscik RL, Van Hulle CA, Lu Q, Carboni M, Kollmorgen G, Wild N, Carlsson CM, Johnson SC, Zetterberg H, Blennow K, Engelman CD"
+    journal: "J Alzheimers Dis"
+    journal_info: "2023;94(4):1587-1605. doi: 10.3233/JAD-230097. PMID: 37482996; PMCID: PMC10468904."
+    year: 2023
+    links:
+      - name: Doi
+        url: https://doi.org/10.3233/JAD-230097
+
+  - title: "Apolipoprotein E moderates the association between non-APOE polygenic risk score for Alzheimer's disease and aging on preclinical cognitive function"
+    authors: "**Xu Y**, Sun Z, Jonaitis E, Deming Y, Lu Q, Johnson SC, Engelman CD"
+    journal: "Alzheimers Dement"
+    journal_info: "2024 Feb;20(2):1063-1075. doi: 10.1002/alz.13515. Epub 2023 Oct 19. PubMed PMID: 37858606; PubMed Central PMCID: PMC10916952."
+    year: 2024
+    links:
+      - name: Doi
+        url: https://doi.org/10.1002/alz.13515
+
+  - title: "Evaluating polygenic risk score prediction performance for Alzheimer's disease in a population-based Hispanic cohort using single- and multi-ancestry models"
+    authors: "**Xu Y**, Qiao M, Gunasekaran TI, Gu Y, Reyes-Dumeyer D, Piriz A, Sanchez D, Soriano B, Franco Y, Coronado ZD, Recio P, Mejia DR, Medrano M, Lantigua RA, Honig L, Manly JJ, Brickman AM, Vardarajan BN, Mayeux R"
+    journal: "Lancet Reg Health Am"
+    journal_info: "2025 Jul 25;49:101198. doi: 10.1016/j.lana.2025.101198. PMID: 40747112; PMCID: PMC12312067."
+    year: 2025
+    links:
+      - name: Doi
+        url: https://doi.org/10.1016/j.lana.2025.101198
+
+  - title: "Polygenic scores of Core 1 Alzheimer's disease biomarkers predict early cognitive and pathological change"
+    authors: "**Xu Y**, Qiao M, Gunasekaran TI, Gu Y, Reyes-Dumeyer D, Piriz A, Sanchez D, Soriano B, Franco Y, Coronado ZD, Recio P, Mejia DR, Medrano M, Lantigua RA, Honig L, Wilson R, Manly JJ, Brickman AM, Engelman CD, Johnson S, Asthana S, Vardarajan B, Mayeux R"
+    journal: "Alzheimers Dement"
+    journal_info: "2025 Nov;21(11):e70937. doi: 10.1002/alz.70937. PMID: 41307156; PMCID: PMC12658386."
+    year: 2025
+    links:
+      - name: Doi
+        url: https://doi.org/10.1002/alz.70937
+
+  - title: "Plasma phosphorylated tau 217 concentrations, APOE genotype, and timing of cognitive impairment in individuals across diverse racial and ethnic groups: a pooled analysis of prospective cohort studies"
+    authors: "**Xu Y**, Gunasekaran TI, Gu Y, Reyes-Dumeyer D, Piriz A, Sanchez D, Mejia DR, Medrano M, Lantigua RA, Alzheimer's Disease Neuroimaging Initiative, Honig L, Wilson R, Reyes RER, Manly JJ, Brickman AM, Engelman CD, Johnson S, Asthana S, Bennett DA, Petersen M, O'Bryant S, Vardarajan BN, Mayeux R"
+    journal: "Lancet Neurol"
+    journal_info: "2026 Sep 9;. doi: 10.1016/S1474-4422(26)00313-3. [Epub ahead of print] PubMed PMID: 42716078."
+    year: 2026
+    links:
+      - name: Doi
+        url: https://doi.org/10.1016/S1474-4422(26)00313-3
+
+talks:
+  - title: "Pathology-Informed Polygenic Scores Identify Distinct Genetic Contributors to Alzheimer’s and Non-Alzheimer’s Dementia Across Ancestries."
+    talk_info: "Accepted for poster presentation at the Clinical Trials on Alzheimer's Disease Conference 2026, Boston, MA, USA."
+    year: 2026
+
+  - title: "Plasma P-tau217 and APOE Genotype Can Predict Onset of Cognitive Impairment Before the Diagnosis of Alzheimer’s Disease."
+    talk_info: "Accepted for oral presentation at the Clinical Trials on Alzheimer's Disease Conference 2026, Boston, MA, USA."
+    year: 2026
+
+  - title: "Pathology-Informed Polygenic Scores Identify Distinct Genetic Contributors to Alzheimer’s and Non-Alzheimer’s Dementia Across Ancestries."
+    talk_info: "Accepted for poster presentation at the Alzheimer’s Association International Conference 2026, London, UK."
+    year: 2026
+
+  - title: "Plasma P-tau217 and APOE Genotype Can Predict Onset of Cognitive Impairment Before the Diagnosis of Alzheimer’s Disease."
+    talk_info: "Accepted for oral presentation at the AD/PD Conference 2026, Copenhagen, Denmark."
+    year: 2026
+
+  - title: "Polygenic scores of Core 1 Alzheimer's disease biomarkers predict early cognitive and pathological change."
+    talk_info: "Accepted for poster presentation at the Alzheimer’s Association International Conference 2025, Toronto, Canada."
+    year: 2025
+
+  - title: "Polygenic scores of Core 1 Alzheimer's disease biomarkers predict early cognitive and pathological change."
+    talk_info: "Accepted for poster presentation at the AD/PD Conference 2025, Vienna, Austria."
+    year: 2025
+
+  - title: "Evaluating polygenic risk score prediction performance for Alzheimer's disease in a population-based Hispanic cohort using single- and multi-ancestry models."
+    talk_info: "Accepted for poster presentation at the American Society for Human Genetics Annual Conference 2024, Denver, CO, USA."
+    year: 2024
+
+  - title: "Sex Differences in the Risk of Alzheimer’s Disease and Associated Risk Factors Among Aging Hispanics: A Cross‐country Study."
+    talk_info: "Accepted for poster presentation at the Alzheimer’s Association International Conference 2024, Philadelphia, PA, USA."
+    year: 2024
+
+  - title: "Non‐APOE Polygenic risk score derived from European ancestry data are more predictive of dementia among Hispanics who are APOE ε4 carriers."
+    talk_info: "Accepted for oral presentation at the Alzheimer’s Association International Conference 2024, Philadelphia, PA, USA."
+    year: 2024
+
+  - title: "Childhood self-reported socioeconomic status modifies the genetic risk of Alzheimer’s on mid- and late-life cognitive decline in a population-based study."
+    talk_info: "Accepted for poster presentation at the Alzheimer’s Association International Conference 2023, Amsterdam, Netherlands."
+    year: 2023
+
+  - title: "Childhood self-reported socioeconomic status modifies the genetic risk of Alzheimer’s on mid- and late-life cognitive decline in a population-based study."
+    talk_info: "Accepted for poster presentation at the Society for Epidemiology Annual Conference 2023, Portland, OR, USA."
+    year: 2023
+
+  - title: "Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal Cognitive Aging among Asymptomatic Individuals from the Wisconsin Registry for Alzheimer’s Prevention."
+    talk_info: "Accepted for poster presentation at the Wisconsin Alzheimer’s Disease Research Day 2023, Madison, WI, USA."
+    year: 2023
+
+  - title: "Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal Cognitive Aging among Asymptomatic Individuals from the Wisconsin Registry for Alzheimer’s Prevention."
+    talk_info: "Accepted for oral presentation at the Synergies for Longitudinal Study Conference, Madison, WI, USA."
+    year: 2022
+
+  - title: "Mid-to-Late Life Healthy Lifestyle Modifies Genetic Risk for Longitudinal Cognitive Aging among Asymptomatic Individuals from the Wisconsin Registry for Alzheimer’s Prevention."
+    talk_info: "Accepted for oral presentation at the Alzheimer’s Association International Conference 2022, San Diego, CA, USA."
+    year: 2022
+
+  - title: "Apolipoprotein E moderates the association between Non-APOE Polygenic Risk Score for Alzheimer’s Disease and Aging on Preclinical Cognitive Function."
+    talk_info: "Accepted for poster presentation at the Alzheimer’s Association International Conference 2022, San Diego, CA, USA."
+    year: 2022
+
+  - title: "Apolipoprotein E moderates the association between Non-APOE Polygenic Risk Score for Alzheimer’s Disease and Aging on Preclinical Cognitive Function."
+    talk_info: "Accepted for poster presentation at the Wisconsin Alzheimer’s Disease Research Day 2022, Madison, WI, USA."
+    year: 2022
+
+  - title: "Effect of Pathway-specific Polygenic Risk Scores for Alzheimer’s Disease on Rate of Change in Cognitive Function and AD-related Biomarkers among Asymptomatic Individuals."
+    talk_info: "Accepted for oral presentation at the Integrating Genetics into the Social Sciences Conference 2021, Boulder, CO, USA."
+    year: 2021
+
+  - title: "Bald is Beautiful? Life course outcomes for individuals at high genetic risk for male pattern baldness."
+    talk_info: "Accepted for oral presentation at the Integrating Genetics into the Social Sciences Conference 2020, Boulder, CO, USA."
+    year: 2020

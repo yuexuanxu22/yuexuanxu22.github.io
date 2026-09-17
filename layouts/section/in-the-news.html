@@ -38,6 +38,28 @@
 
 
 
+
+      <div class="publication-type ">
+        Research Features
+      </div>
+      <div id="container-publications">
+        {{ range $index, $item := $research_features }}
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-pub  ">
+          {{ partial "views/in_the_news.html" (dict
+              "page" .
+              "index" $index
+              "item" $item
+          )}}
+        </div>
+
+        {{ end }}
+      </div>
+
+
+
+
+
     </div>
   </div>
 </div>

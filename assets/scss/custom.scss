@@ -5,6 +5,10 @@ $text-primary-color: #ff3860;
 
 .wg-about{
 
+  .home-biography {
+    text-align: justify;
+  }
+
   ul.ul-edu li .description p.institution {
     font-size: 0.75rem;
     //color: $text-primary-color;

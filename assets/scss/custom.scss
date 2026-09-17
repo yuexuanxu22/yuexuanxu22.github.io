@@ -299,6 +299,7 @@ $text-primary-color: #ff3860;
   .paper-item {
     border-top: 1px solid #e2e8f0;
     padding: 3rem 0;
+    text-align: justify;
   }
   .pub-icon {
     // color: $text-primary-color;
@@ -327,6 +328,10 @@ $text-primary-color: #ff3860;
   .pub-news-date {
     font-size: 0.85rem;
     color: rgba(0, 0, 0, 0.6);
+  }
+
+   .paper-item {
+    text-align: left;
   }
 }
 

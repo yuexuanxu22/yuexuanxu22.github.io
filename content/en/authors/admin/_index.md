@@ -71,9 +71,9 @@ social:
 #  icon_pack: fab
 #  link:  https://www.instagram.com/xxxx/
   
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/xxxx/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yuexuanxu
     
 
 

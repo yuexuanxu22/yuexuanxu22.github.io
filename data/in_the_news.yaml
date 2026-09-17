@@ -1,0 +1,51 @@
+media_coverage:
+  - source: "Newsweek"
+    title: "Alzheimer’s Test Could Reveal When Symptoms May Begin Years in Advance"
+    date: "September 2026"
+    url: "https://www.newsweek.com/alzheimers-test-could-reveal-when-symptoms-may-begin-years-in-advance-12447970"
+
+  - source: "International Business Times Australia"
+    title: "New Blood and Gene Test Combo Can Predict Alzheimer's Symptoms Years Before They Appear, Study Finds"
+    date: "September 2026"
+    url: "https://www.ibtimes.com.au/blood-test-apoe4-predict-alzheimers-symptoms-1875571"
+
+  - source: "News-Medical"
+    title: "APOE Genotype Helps p-tau217 Predict Who May Develop Cognitive Impairment Sooner"
+    date: "September 2026"
+    url: "https://www.news-medical.net/news/20260914/APOE-genotype-helps-p-tau217-predict-who-may-develop-cognitive-impairment-sooner.aspx"
+
+  - source: "Commonwealth Union"
+    title: "Can a Blood Test Predict Alzheimer’s Before Memory Loss Begins? New Study Offers Clues"
+    date: "September 2026"
+    url: "https://www.commonwealthunion.com/can-a-blood-test-predict-alzheimers-before-memory-loss-begins-new-study-offers-clues/"
+
+  - source: "ALLATRA Media"
+    title: "A Gene Result Changes What an Alzheimer's Blood Test Can Tell You"
+    date: "September 2026"
+    url: "https://allatra.media/news/science-ptau217-apoe-timing-of-cognitive-impairment"
+
+  - source: "Medical Xpress"
+    title: "Blood and Gene Tests Predict Alzheimer's Symptoms Three to Six Years Ahead"
+    date: "September 2026"
+    url: "https://medicalxpress.com/news/2026-09-blood-gene-alzheimer-symptoms-years.html"
+
+  - source: "Columbia University Irving Medical Center"
+    title: "Blood Biomarker and Genetic Test May Help Predict Timing of Cognitive Impairment"
+    date: "September 2026"
+    url: "https://www.neurology.columbia.edu/news/blood-biomarker-and-genetic-test-may-help-predict-timing-cognitive-impairment"
+
+  - source: "Science"
+    title: "An Alzheimer’s Blood Test Is Getting Popular. But Who Really Needs It?"
+    date: "March 2026"
+    url: "https://www.science.org/content/article/alzheimer-s-blood-test-getting-popular-who-really-needs-it"
+
+research_features:
+  - source: "TaubCONNECT Research Perspectives, Columbia University"
+    title: "Polygenic Scores of Core 1 Alzheimer's Disease Biomarkers Predict Early Cognitive and Pathological Change"
+    date: "December 2025"
+    url: "https://columbianeuroresearch.org/taub/res-taub-connect-12-2025.html"
+
+  - source: "TaubCONNECT Research Perspectives, Columbia University"
+    title: "Evaluating Polygenic Risk Score Prediction Performance for Alzheimer's Disease in a Population-Based Hispanic Cohort Using Single- and Multi-Ancestry Models"
+    date: "October 2025"
+    url: "https://columbianeuroresearch.org/taub/res-taub-connect-10-2025.html"

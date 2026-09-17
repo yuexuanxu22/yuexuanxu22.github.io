@@ -16,15 +16,23 @@ main:
     url: 'publications'
     weight: 30
 
+  - name: Talks
+    url: 'talks'
+    weight: 40
+
+  - name: In the News
+    url: 'in-the-news'
+    weight: 50
+
   - name: CV
     url: 'uploads/cv.pdf'
-    weight: 40
+    weight: 60
     params:
       target: '_blank'
 
   - name: Contact
     url: 'contact'
-    weight: 50
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

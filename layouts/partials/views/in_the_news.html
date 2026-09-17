@@ -1,0 +1,29 @@
+{{ $item := .item }}
+{{ $item_index := add .index 1 }}
+
+<div class="paper-item row view-citation" >
+
+
+  <div class="col-12 col-md-3">
+
+    <div class="pub-journal">
+      <a href="{{$item.url}}" target="_blank" >
+        {{ $item.source | markdownify | safeHTML}}
+      </a>
+      <br><span class="pub-news-date">{{$item.date}}</span>
+    </div>
+
+  </div>
+  <div class="col-12 col-md-9">
+    <div class="pub-title">
+       <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+       {{ $item.title | markdownify | safeHTML}}
+    </div>
+    {{/*  <div class="pub-author">{{ $item.talk_info | markdownify | safeHTML}}</div>  */}}
+
+
+
+  </div>
+
+
+</div>

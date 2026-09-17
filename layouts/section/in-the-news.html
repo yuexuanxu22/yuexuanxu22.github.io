@@ -1,0 +1,45 @@
+{{- define "main" -}}
+
+
+{{/* Query */}}
+{{- $query := site.Data.in_the_news -}}
+{{- $media_coverage := $query.media_coverage -}}
+{{- $research_features := $query.research_features -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper pt-3 page-publication-list page-in-the-news">
+  <div class="row">
+    <div class="col-12">
+
+      {{ with .Content }}
+      <div class="article-style">{{ . }}</div>
+      {{ end }}
+
+
+      <div class="publication-type ">
+        Media Coverage
+      </div>
+      <div id="container-publications">
+        {{ range $index, $item := $media_coverage }}
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-pub  ">
+          {{ partial "views/in_the_news.html" (dict
+              "page" .
+              "index" $index
+              "item" $item
+          )}}
+        </div>
+
+        {{ end }}
+      </div>
+
+
+
+
+
+    </div>
+  </div>
+</div>
+
+{{- end -}}

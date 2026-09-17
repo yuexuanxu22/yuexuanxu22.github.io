@@ -5,7 +5,6 @@
 {{- $query := site.Data.publications -}}
 {{- $preprints := sort $query.preprints "year" "desc" -}}
 {{- $peer_reviewed_articles := sort $query.peer_reviewed_articles "year" "desc" -}}
-{{- $talks := sort $query.talks "year" "desc" -}}
 
 {{ partial "page_header.html" . }}
 
@@ -53,26 +52,6 @@
 
         {{ end }}
       </div>
-
-
-      <div class="publication-type ">
-        Talks
-      </div>
-      <div id="container-publications">
-        {{ range $index, $item := $talks }}
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-pub year-{{ $item.year | time.Format "2006" }}">
-          {{ partial "views/pub_talk.html" (dict
-              "page" .
-              "index" $index
-              "item" $item
-          )}}
-        </div>
-
-        {{ end }}
-      </div>
-
-
 
 
 

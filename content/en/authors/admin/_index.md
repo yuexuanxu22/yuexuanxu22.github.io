@@ -16,7 +16,7 @@ education:
     details: 
     
     
-  - course: Bachelor of Arts (BA) in Management
+  - course: Bachelor of Arts (BA) in Public Administration
     institution: Shandong University, Jinan, China
     year: 2015
     img:  

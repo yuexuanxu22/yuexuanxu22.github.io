@@ -3,7 +3,7 @@ bio:
 
 education:
   courses:
-  - course: Doctor of Philosophy (PhD), with a focus on Genetic Epidemiology
+  - course: Doctor of Philosophy (PhD), Genetic Epidemiology
     institution:   University of Wisconsin–Madison, Madison, WI
     year: 2023   
     img: 
